@@ -1,9 +1,9 @@
 # Your Project's Title...
-Your project's description...
+Puneet Udasi News Site
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--news--pudasi.aem.page
+- Live: https://main--news--pudasi.aem.live
 
 ## Documentation
 
